@@ -51,13 +51,15 @@ FPTBook operates with tailored experiences for three primary user roles, ensurin
 ### 1. Entity-Relationship Diagram (ERD)
 *Outlines the database schema, mapping the relationships between Users, Books, Categories, Orders, and Order Details.*
 <p align="center">
-  <img width="780" height="1135" alt="image" src="https://github.com/user-attachments/assets/aad865b1-b6e2-4861-97ed-31e4269188fb" />
+ <img width="681" height="991" alt="ERD" src="https://github.com/user-attachments/assets/d88ba77d-b1cf-4216-af69-c3ea91c52997" />
+
 </p>
 
 ### 2. Use Case Diagram
 *Visualizes the functional interactions and permission boundaries between Admins, Store Owners, Customers, and Guests.*
 <p align="center">
- <img width="924" height="1194" alt="image" src="https://github.com/user-attachments/assets/fec4231a-0e86-4c30-b330-584d14eb8922" />
+<img width="729" height="864" alt="image" src="https://github.com/user-attachments/assets/9bfa14fd-2065-4965-8e29-e1e1a1b3ed7b" />
+
 </p>
 
 ---
@@ -254,3 +256,4 @@ To explore the codebase or run FPTBook locally, clone the repository:
 
 ```bash
 git clone https://github.com/khangln2111/Greenwich-1670-ApplicationDevelopment-BookStoreMVC
+
